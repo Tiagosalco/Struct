@@ -1,0 +1,4 @@
+31 blancos
+20 rojos
+24 violetas
+11 celestes

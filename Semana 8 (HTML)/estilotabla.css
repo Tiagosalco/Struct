@@ -1,0 +1,19 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: hsl(215, 100%, 69%);
+}
+tr:hover {
+    background-color: hsla(215, 100%, 69%, 0.245);
+}
